@@ -77,3 +77,4 @@ build_BurstDebugInformation_DoNotShip/*
 build_Data/*
 *.so
 build.x86_64
+android_build/*
